@@ -1,0 +1,21 @@
+# Password Strength Analyzer
+
+A Python-based cybersecurity project that evaluates the strength of passwords.
+
+## Features
+- Password length checking
+- Uppercase, lowercase, numbers, and special characters validation
+- Password scoring system
+- Common password detection
+- Password reuse prevention using SQLite
+- Password suggestion generator
+
+## Technologies
+- Python
+- Regex
+- SQLite
+- Hashlib
+
+## Run
+python app.py
+python password_generator.py
